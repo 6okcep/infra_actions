@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 
 
-# 12
+# 1
 def index(request):
     return HttpResponse('У меня получилось!')
 
